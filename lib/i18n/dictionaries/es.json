@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Carta a los Reyes Magos",
+    "subtitle": "Escribe tu carta mágica a los Reyes Magos y sigue su viaje",
+    "writeLetter": "Escribe tu Carta",
+    "trackLetter": "Seguimiento de Carta",
+    "about": "Sobre los Reyes"
+  },
+  "letter": {
+    "title": "Tu Carta a los Reyes Magos",
+    "name": "Tu Nombre",
+    "age": "Tu Edad",
+    "parentEmail": "Email de tus Padres",
+    "wishes": "Tus Deseos",
+    "wishPlaceholder": "Deseo",
+    "behavior": "Cuéntanos tu buen comportamiento este año",
+    "behaviorPlaceholder": "He ayudado a mis padres con...",
+    "consent": "Confirmo que tengo permiso de mis padres para enviar esta carta",
+    "submit": "Enviar Carta a los Reyes Magos"
+  },
+  "tracking": {
+    "title": "Seguimiento de tu Carta",
+    "subtitle": "Introduce tu número de seguimiento para ver la magia",
+    "states": {
+      "reading": "Leyendo la Carta",
+      "preparation": "Preparando los Regalos",
+      "loading": "Cargando los Camellos",
+      "journey": "En Camino"
+    }
+  },
+  "about": {
+    "title": "Los Reyes Magos",
+    "subtitle": "Conoce el viaje mágico de Melchor, Gaspar y Baltasar",
+    "tradition": {
+      "title": "La Tradición",
+      "description": "Cada 6 de enero, los Reyes Magos traen regalos a los niños que se han portado bien durante el año. Siguiendo la Estrella de Belén, viajan en sus camellos por todo el mundo, continuando su antigua tradición de traer alegría a los niños como llevaron regalos al niño Jesús."
+    },
+    "kings": {
+      "melchior": {
+        "name": "Melchor",
+        "title": "Rey de Persia",
+        "gift": "Oro",
+        "description": "El mayor de los tres, conocido por su sabiduría y generosidad. Trae oro, simbolizando la realeza."
+      },
+      "gaspar": {
+        "name": "Gaspar",
+        "title": "Rey de la India",
+        "gift": "Incienso",
+        "description": "El más joven de los magos, trayendo incienso que representa la divinidad y las bendiciones espirituales."
+      },
+      "balthazar": {
+        "name": "Baltasar",
+        "title": "Rey de Arabia",
+        "gift": "Mirra",
+        "description": "Conocido por su profunda comprensión de las antiguas profecías, trayendo mirra, símbolo del destino futuro."
+      }
+    }
+  }
+}

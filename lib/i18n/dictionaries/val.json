@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Carta als Reis Mags",
+    "subtitle": "Escriu la teua carta màgica als Reis Mags i segueix el seu viatge",
+    "writeLetter": "Escriu la teua Carta",
+    "trackLetter": "Seguiment de Carta",
+    "about": "Sobre els Reis"
+  },
+  "letter": {
+    "title": "La teua Carta als Reis Mags",
+    "name": "El teu Nom",
+    "age": "La teua Edat",
+    "parentEmail": "Email dels teus Pares",
+    "wishes": "Els teus Desitjos",
+    "wishPlaceholder": "Desig",
+    "behavior": "Conta'ns el teu bon comportament aquest any",
+    "behaviorPlaceholder": "He ajudat als meus pares amb...",
+    "consent": "Confirme que tinc permís dels meus pares per a enviar aquesta carta",
+    "submit": "Enviar Carta als Reis Mags"
+  },
+  "tracking": {
+    "title": "Seguiment de la teua Carta",
+    "subtitle": "Introdueix el teu número de seguiment per a veure la màgia",
+    "states": {
+      "reading": "Llegint la Carta",
+      "preparation": "Preparant els Regals",
+      "loading": "Carregant els Camells",
+      "journey": "En Camí"
+    }
+  },
+  "about": {
+    "title": "Els Reis Mags",
+    "subtitle": "Coneix el viatge màgic de Melcior, Gaspar i Baltasar",
+    "tradition": {
+      "title": "La Tradició",
+      "description": "Cada 6 de gener, els Reis Mags porten regals als xiquets que s'han portat bé durant l'any. Seguint l'Estrella de Betlem, viatgen en els seus camells per tot el món, continuant la seua antiga tradició de portar alegria als xiquets com van portar regals al xiquet Jesús."
+    },
+    "kings": {
+      "melchior": {
+        "name": "Melcior",
+        "title": "Rei de Pèrsia",
+        "gift": "Or",
+        "description": "El major dels tres, conegut per la seua saviesa i generositat. Porta or, simbolitzant la reialesa."
+      },
+      "gaspar": {
+        "name": "Gaspar",
+        "title": "Rei de l'Índia",
+        "gift": "Encens",
+        "description": "El més jove dels mags, portant encens que representa la divinitat i les benediccions espirituals."
+      },
+      "balthazar": {
+        "name": "Baltasar",
+        "title": "Rei d'Aràbia",
+        "gift": "Mirra",
+        "description": "Conegut per la seua profunda comprensió de les antigues profecies, portant mirra, símbol del destí futur."
+      }
+    }
+  }
+}

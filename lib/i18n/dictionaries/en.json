@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Three Wise Men Letter",
+    "subtitle": "Write your magical letter to the Three Wise Men and track their journey",
+    "writeLetter": "Write Your Letter",
+    "trackLetter": "Track Letter",
+    "about": "About the Kings"
+  },
+  "letter": {
+    "title": "Your Letter to the Three Wise Men",
+    "name": "Your Name",
+    "age": "Your Age",
+    "parentEmail": "Parent's Email",
+    "wishes": "Your Wishes",
+    "wishPlaceholder": "Wish",
+    "behavior": "Tell us about your good behavior this year",
+    "behaviorPlaceholder": "I helped my parents with...",
+    "consent": "I confirm I have parental permission to send this letter",
+    "submit": "Send Letter to the Three Wise Men"
+  },
+  "tracking": {
+    "title": "Track Your Letter",
+    "subtitle": "Enter your tracking number to see the magic happen",
+    "states": {
+      "reading": "Reading Letter",
+      "preparation": "Gift Preparation",
+      "loading": "Loading Camels",
+      "journey": "On the Journey"
+    }
+  },
+  "about": {
+    "title": "The Three Wise Men",
+    "subtitle": "Learn about the magical journey of Melchior, Gaspar, and Balthazar",
+    "tradition": {
+      "title": "The Tradition",
+      "description": "Every year on January 6th, the Three Wise Men bring gifts to children who have been good throughout the year. Following the Star of Bethlehem, they travel on their camels across the world, continuing their ancient tradition of bringing joy to children just as they brought gifts to the baby Jesus."
+    },
+    "kings": {
+      "melchior": {
+        "name": "Melchior",
+        "title": "King of Persia",
+        "gift": "Gold",
+        "description": "The eldest of the three, known for his wisdom and generosity. He brings gold, symbolizing kingship."
+      },
+      "gaspar": {
+        "name": "Gaspar",
+        "title": "King of India",
+        "gift": "Frankincense",
+        "description": "The youngest wise man, bringing frankincense which represents divinity and spiritual blessings."
+      },
+      "balthazar": {
+        "name": "Balthazar",
+        "title": "King of Arabia",
+        "gift": "Myrrh",
+        "description": "Known for his deep understanding of ancient prophecies, bringing myrrh, a symbol of future destiny."
+      }
+    }
+  }
+}
